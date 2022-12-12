@@ -1,7 +1,7 @@
 public class LeapYear {
     public static void main(String[] args) {
 
-        int year = 2020;
+        int year = 2021;
         boolean LeapYear = true;
         boolean notLeapYear = false;
         String text1="Tested year is leap year";
@@ -15,6 +15,5 @@ public class LeapYear {
             System.out.println(text1);
             System.out.println(notLeapYear);
         }
-
     }
 }
